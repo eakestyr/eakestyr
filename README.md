@@ -1,5 +1,5 @@
 ## Olá, visitante! Me chamo João, seja bem-vindo.
 
-- **Frontend Skills:** Vue 3 + TailwindCSS + TypeScript
-- **Backend Skills:** NodeJS com ExpressJS + Prisma ORM & MariaDB
-- **Versionamento de Código:** Git/GitHub
+- **Frontend Skills:** HTML5, CSS3, JavaScript, Tailwind CSS, Vue 3.
+- **Backend Skills:** Node.js, Express.js, Prisma, MariaDB/MySQL, Git
+- **Versionamento de Código:** Git, GitHub, Codeberg
