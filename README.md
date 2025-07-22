@@ -16,7 +16,6 @@ Actualmente, estoy trabajando en ArcillaCode, un proyecto enfocado en ser un edi
 ## 📬 Contacto
 
 - [LinkedIn](https://linkedin.com/in/jvmrcl)
-- [Twitter](https://twitter.com/eakestyr)
 - Correo: lnmarcon@tutanota.de
 
 ¡No dudes en contactarme para charlar sobre tecnología, compartir ideas o colaborar en proyectos! :)
